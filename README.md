@@ -1,1 +1,1 @@
-My first readme
+This coding experience is thrilling
